@@ -1,2 +1,2 @@
 # NewRepository
-This is a second Repository
+This is the edited Repository
